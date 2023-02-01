@@ -1,13 +1,5 @@
 ## Welcome to my Profile. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
-
-
-<div align="center">
-<!--   <a href="https://github.com/Francisco-Fetapi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francisco-Fetapi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Fetapi&layout=compact&langs_count=7&theme=dracula"/> -->
-  
-</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Francisco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Francisco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,10 +9,18 @@
   <img align="center" alt="Francisco-NextJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg">
   <img align="center" alt="Francisco-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Francisco-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Francisco-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-  
-          
+  <img align="center" alt="Francisco-Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />          
 </div>
+
+<br />
+
+<div>
+  <a href="https://github.com/Francisco-Fetapi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francisco-Fetapi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francisco-Fetapi&layout=compact&langs_count=7&theme=dracula"/>
+  
+</div>
+
   
   <br />
   
