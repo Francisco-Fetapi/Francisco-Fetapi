@@ -1,4 +1,7 @@
-## Seja bem-vindo ao meu Perfil. 👋
+## Welcome to my Profile. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
+
+
+
 <div align="center">
 <!--   <a href="https://github.com/Francisco-Fetapi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Francisco-Fetapi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,6 +22,15 @@
           
 </div>
   
+  <br />
+  
+  <p>My name is <b>Francisco Fetapi</b>, I'm a Full-Stack Developer that essentially works with ecosystem technologies <a href="https://en.wikipedia.org/wiki/JavaScript">JavaScript</a>.
+</p>
+<p>
+  My first contact with programming was in <a href="https://franciscofetapi.vercel.app/journey?year=2018" target="__blank">2018</a> during high school, at this stage I learned Programming Logic using the Visual G. After creating algorithms than were executed in the prompt i saw myself curious in creating a friendly interface for my mini-programs, and it was so I came across <a href="https://en.wikipedia.org/wiki/HTML" target="__blank">HTML5</a>,
+  <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="__blank">CSS3</a> and <a href="https://en.wikipedia.org/wiki/JavaScript" target="__blank">JavaScript</a>, and since then I continued studying non-stop.
+</p>
+  
   ##
  
 <div> 
@@ -33,5 +45,5 @@
 </div>
   <br />
   <div>
-    <i>Para mais informações <a href="https://franciscofetapi.vercel.app/">Ver meu portfólio</a></i>
+    <i>For more informations <a href="https://franciscofetapi.vercel.app/">See my portfolio</a></i>
   </div>
