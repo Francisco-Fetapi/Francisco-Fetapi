@@ -31,6 +31,11 @@
   <a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets" target="__blank">CSS3</a> and <a href="https://en.wikipedia.org/wiki/JavaScript" target="__blank">JavaScript</a>, and since then I continued studying non-stop.
 </p>
   
+##
+  <br />
+  
+  ![full-stack-development](https://user-images.githubusercontent.com/66078558/144394516-90321964-32ac-489b-8652-957ae7f5ce04.gif)
+  
   ##
  
 <div> 
@@ -43,7 +48,8 @@
   <a href="https://github.com/Francisco-Fetapi" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <!--   ![Snake animation](https://github.com/Francisco-Fetapi/Francisco-Fetapi/blob/output/github-contribution-grid-snake.svg) -->
 </div>
+  
   <br />
   <div>
-    <i>For more informations <a href="https://franciscofetapi.vercel.app/">See my portfolio</a></i>
+    <i>For more information <a href="https://franciscofetapi.vercel.app/">See my portfolio</a></i>
   </div>
