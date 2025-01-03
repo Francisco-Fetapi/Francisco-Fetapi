@@ -1,6 +1,11 @@
 ## Welcome to my Profile. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
-<div style="display: inline_block"><br>
+<img src="https://komarev.com/ghpvc/?username=Francisco-Fetapi&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="fgonga" style="
+    margin-right: 10px;
+">
+[![wakatime](https://wakatime.com/badge/user/c7da0b48-93fb-4f5b-b1c5-18d5fba27e4c.svg)](https://wakatime.com/@c7da0b48-93fb-4f5b-b1c5-18d5fba27e4c)
+
+<div style="display: inline_block">
   <img align="center" alt="Francisco-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Francisco-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Francisco-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
